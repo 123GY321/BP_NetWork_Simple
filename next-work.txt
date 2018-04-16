@@ -1,0 +1,5 @@
+my next work include :
+1) solute gradient disappear
+2) adaptive learn rate
+3) deeper layers
+...
